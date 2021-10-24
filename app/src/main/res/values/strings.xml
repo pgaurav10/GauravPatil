@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gaurav Patil</string>
+    <string name="name">Gaurav Patil</string>
+    <string name="job_name">Android / iOS Developer</string>
+    <string name="int_desc">I am very much interested in building mobile apps which can do various functionalities and ease a lot of peoples work.I am very curious about how we can implement AI in Mobile applications</string>
+    <string name="stu_desc">Currently studying masters at The University of Texas at Dallas. My major is Computer Science specialization in Intelligent Systems.</string>
+    <string name="wok_des">I have worked as iOS developer in RS Labs where I worked on the products of one of the top company where I fixed many bugs for that product as well as helped my team lead in creating new feature for that product</string>
+</resources>
